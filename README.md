@@ -1,0 +1,1 @@
+Rimworld mod that allows you to accept random wanderers into your colony even if you are in space. New colonists arrive in a transport pod and are given a damaged vac suit just so they can make it to your pressurized environment without dying.
